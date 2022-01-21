@@ -1,0 +1,7 @@
+.DS_Store
+*.DS_Store
+**/.DS_Store
+mnst/train.csv
+mnst/test.csv
+flowers-recognition/flowers
+flowers-recognition/flower-identification1
