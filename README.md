@@ -3,21 +3,6 @@
 This repository contains my attempted ML projects. Each of the folder in this repository represent attempted project.
 
 
-### House Prices (Advanced Regression Techniques) 
-
-This project is about house price prediction based on some house and environment related features provided. These variables are 79 in numbers and are mix of both categorical and numerical variables. Different regression techniques are used in solving this including ElasticNet, GradientBoostingRegressor, SelectKBest, Neural network etc. To goto the Kaggle competition, click [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-The major reason of attempting this is not just to compete but to explore several regression techniques.
-Out of my predictions with different models, the prediction done with neural network has the best out of all my models with Root Mean Squared Logarithmatic Error of 0.12896 on Kaggle .
-
-Below is the submission ranking (as the time of writing this) on Kaggle
-
-<p />
-
- Below is the Accuracy/Loss plot during training.
- 
-<img src="./images/house-price/price-plot.png" alt="drawing" width="600"/>
-
-
 ### Amzon polarity review
 
 This project is a sentiment analysis project on amazon polarity review dataset. The project makes use of a subset of the amazon polarity dataset (60,000) and compare the Bag of words model with embedding models like Glove, Word2Vec and Facebook FastText word embedding.
@@ -45,9 +30,22 @@ Here is the ROC-AUC curve of the different models
 
 The Bag of Words model outperformed the word embedding models.
 
-**Note** : In this project, the major pre-processing step done on the dataset is to remove just words with frequency less than 10. 
+**Note** : In this project, the major pre-processing step done on the dataset is to remove just words with frequency less than 10. The dataset can be downloaded on the Hugging Face website via this [link](https://huggingface.co/datasets/amazon_polarity).
 
 
+### House Prices (Advanced Regression Techniques) 
+
+This project is about house price prediction based on some house and environment related features provided. These variables are 79 in numbers and are mix of both categorical and numerical variables. Different regression techniques are used in solving this including ElasticNet, GradientBoostingRegressor, SelectKBest, Neural network etc. To goto the Kaggle competition, click [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+The major reason of attempting this is not just to compete but to explore several regression techniques.
+Out of my predictions with different models, the prediction done with neural network has the best out of all my models with Root Mean Squared Logarithmatic Error of 0.12896 on Kaggle .
+
+Below is the submission ranking (as the time of writing this) on Kaggle
+
+<p />
+
+ Below is the Accuracy/Loss plot during training.
+ 
+<img src="./images/house-price/price-plot.png" alt="drawing" width="600"/>
 
 ### Digit Recognizer 
 
