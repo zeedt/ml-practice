@@ -34,9 +34,34 @@ Below is the prediction made with labels (indicating if wrong)
 <img src="./images/flower-recognition/flower-prediction.png" alt="drawing" width="600"/>
 <p />
 
-**Note** : I still have some improvements to do on my CNN model for this flower recognition task.
+**Note** : There is still room for improvements on my CNN model for this flower recognition task.
 
-Also, more kaggle tasks would be added here and EDA would be included.
 
+4. **Amzon polarity review** : This project is a sentiment analysis project on amazon polarity review dataset. The project makes use of a subset of the amazon polarity dataset (60,000) and compare the Bag of words model with embedding models like Glove, Word2Vec and Facebook FastText word embedding.
+
+This project compares the training accuracy and the ROC-AUC score of the BoW model and the different word embedding models.
+
+Here is the Validation Accuracy of the different models
+
+<p />
+<img src="./images/famazon-polarity-review/Validation-Accuracy.png" alt="drawing" width="300"/>
+<p />
+
+Here is the ROC-AUC score of the different models
+
+<p />
+<img src="./images/famazon-polarity-review/ROC-AUC-score.png" alt="drawing" width="300"/>
+<p />
+
+
+Here is the ROC-AUC curve of the different models
+
+<p />
+<img src="./images/famazon-polarity-review/ROC-AUC-Curve.png" alt="drawing" width="300"/>
+<p />
+
+The Bag of Words model outperformed the word embedding models.
+
+**Note** : In this project, the major pre-processing step done on the dataset is to remove just words with frequency less than 10. 
 
 Cheers.
