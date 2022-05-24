@@ -1,6 +1,6 @@
-### My personal Kaggle repository
+### My personal ML repository
 
-This repository contains my attempted kaggle competition projects. Each of the folder in this repository represent attempted Kaggle competition project on kaggle.
+This repository contains my attempted ML projects. Each of the folder in this repository represent attempted project.
 
 Below are the attempted projects:
 
