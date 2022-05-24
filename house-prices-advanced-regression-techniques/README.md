@@ -6,7 +6,7 @@ The major reason for this project is to explore several regression techniques. O
 
  Below is the Accuracy/Loss plot during training.
  
-<img src="./images/house-price/price-plot.png" alt="drawing" width="600"/>
+<img src="../images/house-price/price-plot.png" alt="drawing" width="600"/>
 
 
 

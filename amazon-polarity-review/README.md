@@ -7,20 +7,20 @@ This project compares the training accuracy and the ROC-AUC score of the BoW mod
 Here is the Validation Accuracy of the different models
 
 <p />
-<img src="./images//amazon-polarity-review/Validation-Accuracy.png" alt="drawing" width="300"/>
+<img src="../images//amazon-polarity-review/Validation-Accuracy.png" alt="drawing" width="300"/>
 <p />
 
 Here is the ROC-AUC score of the different models
 
 <p />
-<img src="./images//amazon-polarity-review/ROC-AUC-score.png" alt="drawing" width="300"/>
+<img src="../images//amazon-polarity-review/ROC-AUC-score.png" alt="drawing" width="300"/>
 <p />
 
 
 Here is the ROC-AUC curve of the different models
 
 <p />
-<img src="./images//amazon-polarity-review/ROC-AUC-Curve.png" alt="drawing" width="300"/>
+<img src="../images//amazon-polarity-review/ROC-AUC-Curve.png" alt="drawing" width="300"/>
 <p />
 
 The Bag of Words model outperformed the word embedding models.

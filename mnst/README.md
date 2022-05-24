@@ -5,7 +5,7 @@ This is a digit recognizer challenge. The training dataset is given in csv which
 
 Below is the Accuracy/Loss plot during training.
 
-<img src="./images/digit/digit-plot.png" alt="drawing" width="600"/>
+<img src="../images/digit/digit-plot.png" alt="drawing" width="600"/>
 
 
 Cheers.

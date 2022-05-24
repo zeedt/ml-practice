@@ -9,7 +9,7 @@ The images were used have the flowers in different context. e.g some are far awa
 Below is the prediction made with labels (indicating if wrong)
 
 <p />
-<img src="./images/flower-recognition/flower-prediction.png" alt="drawing" width="600"/>
+<img src="../images/flower-recognition/flower-prediction.png" alt="drawing" width="600"/>
 <p />
 
 **Note** : There is still room for improvements on my CNN model for this flower recognition task.
